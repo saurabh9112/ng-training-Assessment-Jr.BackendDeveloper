@@ -1,3 +1,7 @@
+Name : Saurabh Rajabhau Deshmukh
+Computer Engineering
+MIT Academy of engineering,Pune
+
 to start the api enter command "npm run dev"
 
 there are 4 endpoints 
